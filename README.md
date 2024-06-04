@@ -1,2 +1,2 @@
 # binary_trees
-ALX Binary Tress
+ALX Binary Trees
